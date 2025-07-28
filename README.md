@@ -2,4 +2,4 @@
 my first git repo
 <br>
 
-author-shivee
+author-shivee shukla
